@@ -2,8 +2,6 @@
 
 Este projeto Python permite gerar cartelas de bingo tradicionais com números de 1 a 75, seguindo as regras clássicas do jogo. O script gera n cartelas de bingo 5x5 com números aleatórios distribuídos por colunas (B: 1-15, I: 16-30, N: 31-45, G: 46-60, O: 61-75), uma imagem personalizada no centro, e as salva em um único arquivo PDF.
 
-![Exemplo de cartelas geradas](conteudo/thumbnail.png)
-
 Script originalmente desenvolvido para dinâmica de Bingo da Roda de Conversa do PET-SI 2025.
 
 ### Requisitos
